@@ -72,7 +72,8 @@ function RegisterForm() {
 
   const [submitted, setSubmitted] = useState(false);
   console.log("test");
-
+  console.log("test");
+  
   return (
     <div>
       <form>
